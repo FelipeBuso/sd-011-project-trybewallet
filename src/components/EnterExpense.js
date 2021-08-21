@@ -13,9 +13,9 @@ class EnterExpense extends Component {
     this.state = {
       value: '',
       description: '',
-      currency: '',
-      method: '',
-      tag: '',
+      currency: 'USD',
+      method: 'Dinheiro',
+      tag: 'Alimentação',
     };
     this.getCurrencys = this.getCurrencys.bind(this);
     this.optionsCurrency = this.optionsCurrency.bind(this);
