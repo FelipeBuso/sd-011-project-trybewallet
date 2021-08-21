@@ -1,0 +1,35 @@
+.form-edit-expense {
+  align-items: center;
+  background-color: #18a558;
+  display: flex;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  height: 80px;
+  justify-content: space-around;
+  width: 100%;
+}
+
+.form-edit-expense button {
+  background-color: #0c1446;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  padding: 5px;
+}
+
+.form-edit-expense label {
+  color: white;
+}
+
+.form-edit-expense input {
+  border: none;
+  border-radius: 5px;
+  margin-left: 5px;
+  padding: 5px;
+}
+
+.form-edit-expense select {
+  border: none;
+  border-radius: 5px;
+  margin-left: 5px;
+  padding: 5px;
+}

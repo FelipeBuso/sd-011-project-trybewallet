@@ -1,0 +1,36 @@
+.form-input-expense {
+  align-items: center;
+  background-color: #175873;
+  border-radius: 0 0 6px 6px;
+  display: flex;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  height: 80px;
+  justify-content: space-around;
+  width: 100%;
+}
+
+.form-input-expense button {
+  background-color: #0c1446;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  padding: 5px;
+}
+
+.form-input-expense label {
+  color: white;
+}
+
+.form-input-expense input {
+  border: none;
+  border-radius: 5px;
+  margin-left: 5px;
+  padding: 5px;
+}
+
+.form-input-expense select {
+  border: none;
+  border-radius: 5px;
+  margin-left: 5px;
+  padding: 5px;
+}
