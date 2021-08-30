@@ -18,6 +18,14 @@
 ---
 
 
+## Projeto
+
+Aplicação em React que use Redux como ferramenta de manipulação de estado.
+
+Através dessa aplicação, será possível realizar as operações básicas de criação e manipulação de um estado de redux.
+
+---
+
 ### Instruções para rodar o projeto
 
 1. Clone o repositório
